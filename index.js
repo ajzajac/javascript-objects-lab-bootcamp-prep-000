@@ -1,6 +1,6 @@
 var recipes = {cake: "flour"}
 
-function updateObjectWithKeyAndValue(recipes, cake, ){
-  recipes[cake] = eggs
+function updateObjectWithKeyAndValue(recipes, cake, flour){
+  recipes.cake = eggs
   return recipes
 }
